@@ -26,8 +26,8 @@ Pillow (PIL)
 
 ⚙️ Kurulum
 Repoyu klonlayın:
-git clone https://github.com/ates779/Weather-App.git
-cd Weather-App
+git clone https://github.com/ates779/Hava-Durumu-Uygulamas-.git
+cd Hava-Durumu-Uygulamas-
 Gerekli paketleri yükleyin:
 pip install -r requirements.txt
 Uygulamayı çalıştırın:
